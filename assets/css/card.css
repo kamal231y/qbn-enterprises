@@ -1,0 +1,29 @@
+.tours {
+  .tour {
+    .tour-image {
+      width: 100%;
+      height: auto;
+    }
+    .tour-title {
+      font-weight: 500;
+    }
+    .tour-description {
+      font-weight: 300;
+    }
+    .tour-price {
+      font-weight: 500;
+      font-size: 1em;
+      .currency {
+      }
+      .price {
+        font-size: 1.5em;
+      }
+    }
+    .tour-review {
+      
+    }
+    .tour-callaction {
+      
+    }
+  }
+}
